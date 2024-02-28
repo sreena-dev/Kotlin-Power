@@ -27,12 +27,13 @@ fun main3() {
     //val anotherResult = add(firstNumber, thirdNumber)
 
     println("$firstNumber + $secondNumber = $result")
-    //res is not working properly
     //println("$firstNumber + $thirdNumber = $anotherResult")
 }
-fun add(firstNumber: Int,secondNumber: Int){
+//note in case of return use the datatype decleration in the after the funcion parameters
+fun add(firstNumber: Int,secondNumber: Int): Int{
     val result=firstNumber+secondNumber
-	println("$result")
+	//println("$result")
+	return result
 }
 
 fun main4() {
