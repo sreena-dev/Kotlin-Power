@@ -1,0 +1,20 @@
+INTRO TO ANDROID JUST STUDY IT QUITE SIMPLE ONCE YOU GO THROUGH IT
+
+COVERS,
+
+activity 
+service 
+broadcast receiver 
+content provider
+
+the four pillars of Android is activity service broadcast receiver content provider
+activity series interface that the user work on while handling app
+action provided by the Android app even when the mobile is not on in on mode
+indirectly reasoning an alarm clock that is running at the correct time even when the screen is not on
+indirectly reasoning an alarm clock that is running at the correct time even when the screen is not on
+because receiver basically means when the application receive the signal from other App even when the applications are running when the parallel info from other application
+content provider is nothing but the permission from the application that is the permission from the system application that is received from the created application in order to access the data that is in the system application that is indirectly called as the local data in the database
+from the content provider site the data is stored either in the local data or local data or in the server side data in the database the local data deals with the data in the device that is mobile device
+server side data deals with data that is stored in the Gmail wherein the data is available and it is always available in the server
+app developers got to choose whether the data is stored in the server side or in the local disk
+consider the application called WhatsApp when you first login to WhatsApp it ask for the permission to access your contact this is the reason because the WhatsApp uses the data from your contacts to integrate with the data from the contact and to integrate with the WhatsApp application so that you can directly access contacts in your local server in the application
