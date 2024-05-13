@@ -1,0 +1,8 @@
+JVM,JRE,JDK
+JVM JRE JDK added three. Other three main and environment for Java development and JDK stands for Java development kit. That is the underlying concept that directly converts the human return code to the bytecode and JRE is a Java runtime environment and JVM is called as Java virtual machine as the name suggests, creates a virtual environment on the desktop that supports the concept of platform. Independency the platform independence is a concept through which Java can run on any machine with Mac or OS, windows. So it creates a virtual environment on the desktop so that it enables the platform independency. 
+
+
+JRE is a main package that allows us to run the inbuild concepts, like printlin and some basic packages, basic inbuilt packages. That is dot lag. Java.language packages.
+
+JDK is a main set and JRE is a subset of JDK and JVM is a subset of JRE. I think that makes sense.
+
